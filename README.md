@@ -1,103 +1,57 @@
-<h1 align="center">👋 Hola, soy <strong>Thiego Véliz</strong></h1>
-<h3 align="center">Especialista en Seguridad Informática | Redes | IA | Desarrollo</h3>
+<div align="center">
+
+# 🪪 **THIEGO VÉLIZ**
+### 🌐 Seguridad Informática | Redes | IA | Desarrollo
+
+---
+
+### 🧑‍💻 **Perfil Profesional**
+Apasionado por la tecnología, especializado en **ciberseguridad**, **infraestructura de red**, **inteligencia artificial** y **desarrollo web**.  
+Comprometido con la excelencia técnica, el análisis detallado y la creación de soluciones eficientes y seguras.
+
+---
+
+## 🛡️ **Áreas Clave de Competencia**
+
+### 🔐 Seguridad Informática
+- Firewalls **FortiGate** (SD-WAN, DMZ, VPN IPSec, filtrado de contenido)
+- Escaneo con **Nessus Pro** y **Nmap**
+- Pruebas de penetración web
+- Gestión de logs con **SIEM**
+
+### 🌐 Redes Corporativas
+- Administración de redes **LAN/WAN**
+- ACLs, Segmentación, VLANs
+- Túneles **GRE** y **VPN IPSec** (Cisco)
+
+### 🤖 Inteligencia Artificial
+- Fundamentos de **Deep Learning**
+- Creación de chatbots inteligentes
+
+### 🏗️ Infraestructura & Sistemas
+- Cableado estructurado
+- Administración básica de **Active Directory**
+- Sistemas Windows & Linux
+
+---
+
+## 🧰 **Tecnologías y Herramientas**
 
 <p align="center">
-  <em>Apasionado por la tecnología, la automatización inteligente, la ciberseguridad y el desarrollo moderno.</em>
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,mysql,linux,windows,ps" />
 </p>
 
 ---
 
-## 🚀 Sobre mí
-
-Soy un profesional en formación con experiencia práctica en **ciberseguridad**, **infraestructura de red**, **administración de sistemas**, **inteligencia artificial**, y **desarrollo web**.  
-Me caracterizo por mi enfoque analítico, creatividad, pensamiento crítico y capacidad para resolver problemas técnicos complejos.
-
----
-
-## 🛡️ Áreas de Especialización
-
-### 🔐 **Seguridad Perimetral y de Red**
-- Administración de Firewalls **FortiGate**  
-- Configuración de **SD-WAN, DMZ, VPN IPSec**, filtrado web  
-- Gestión de políticas de seguridad y segmentación
-
-### 🕵️ **Auditoría y Análisis de Vulnerabilidades**
-- Escaneo con **Nessus Professional**  
-- Enumeración y análisis con **Nmap**  
-- Pruebas de penetración web y análisis de vulnerabilidades en aplicaciones  
-
-### 📈 **Monitoreo & Cumplimiento**
-- Gestión de logs con sistemas **SIEM**  
-- Conocimiento de estándares y frameworks de seguridad (ISO, NIST)
+## 📬 **Contacto**
+📧 **Correo:** **thiegov43@gmail.com**  
+🔗 **GitHub:** https://github.com/Undertaker-GT  
+📍 **Guatemala**
 
 ---
 
-## 🤖 Inteligencia Artificial & Modelos Avanzados
-- Fundamentos de **Deep Learning**  
-- Desarrollo e implementación de **chatbots inteligentes**
+### ✨ “La tecnología no solo resuelve problemas; crea nuevas posibilidades.”
 
----
-
-## 🌐 Redes Corporativas & Conectividad
-- Configuración y administración de **LAN/WAN**  
-- Listas de Control de Acceso (**ACL**)  
-- Implementación de túneles **GRE** y **VPN IPSec** en Cisco  
-- Segmentación y diseño de infraestructuras
-
----
-
-## 🏗️ Infraestructura & Servicios
-- Instalación y mantenimiento de **cableado estructurado**  
-- Administración básica de **Active Directory** (usuarios, equipos, GPOs)
-
----
-
-## 💻 Desarrollo y Tecnologías
-### Lenguajes:
-- 🐍 Python  
-- 🟨 JavaScript  
-- 🔵 HTML / CSS
-
-### Bases de datos:
-- MySQL  
-- SQL Server
-
-### Administración de sistemas:
-- Windows  
-- Linux (configuración, actualización y mantenimiento)
-
----
-
-## 🧾 Documentación & Suite Ofimática
-- Elaboración de informes técnicos profesionales  
-- Documentación operativa  
-- Dominio avanzado de **Microsoft Office**
-
----
-
-## 🛠️ Tecnologías, Lenguajes y Herramientas
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="45"/>
-</p>
-
----
-
-## 📫 Contacto
-
-- ✉️ **Correo:** thiegov43@gmail.com  
-- 🔗 **Portafolio/GitHub:** https://github.com/Undertaker-GT  
-- 📍 Guatemala
-
----
-
-<h3 align="center">✨ Gracias por visitar mi perfil ✨</h3>
+</div>
 
 
