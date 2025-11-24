@@ -1,57 +1,36 @@
 <div align="center">
 
-# 🪪 **THIEGO VÉLIZ**
-### 🌐 Seguridad Informática | Redes | IA | Desarrollo
+# **Thiego Véliz**
+### Apasionado por la tecnología, especializado en ciberseguridad, infraestructura de red, inteligencia artificial y desarrollo web.  
 
 ---
 
-### 🧑‍💻 **Perfil Profesional**
-Apasionado por la tecnología, especializado en **ciberseguridad**, **infraestructura de red**, **inteligencia artificial** y **desarrollo web**.  
-Comprometido con la excelencia técnica, el análisis detallado y la creación de soluciones eficientes y seguras.
+**Ciberseguridad 🛡️**  
+FortiGate • Nessus • Nmap • SIEM
 
----
+**Redes 🌐**  
+LAN/WAN • ACL • VLAN • GRE • VPN IPSec (Cisco)
 
-## 🛡️ **Áreas Clave de Competencia**
+**IA 🤖**  
+Deep Learning • Chatbots
 
-### 🔐 Seguridad Informática
-- Firewalls **FortiGate** (SD-WAN, DMZ, VPN IPSec, filtrado de contenido)
-- Escaneo con **Nessus Pro** y **Nmap**
-- Pruebas de penetración web
-- Gestión de logs con **SIEM**
+**Sistemas 🏗️**  
+Active Directory • Windows • Linux
 
-### 🌐 Redes Corporativas
-- Administración de redes **LAN/WAN**
-- ACLs, Segmentación, VLANs
-- Túneles **GRE** y **VPN IPSec** (Cisco)
+**Stack 💻**  
+Python • JavaScript • HTML • CSS • MySQL
 
-### 🤖 Inteligencia Artificial
-- Fundamentos de **Deep Learning**
-- Creación de chatbots inteligentes
-
-### 🏗️ Infraestructura & Sistemas
-- Cableado estructurado
-- Administración básica de **Active Directory**
-- Sistemas Windows & Linux
-
----
-
-## 🧰 **Tecnologías y Herramientas**
+## 🧰 *Tecnologías y Herramientas*
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,html,css,mysql,linux,windows,ps" />
 </p>
 
 ---
+📧 *Correo:* *thiegov43@gmail.com*  
+🔗 *GitHub:* https://github.com/Undertaker-GT  
+📍 *Guatemala*
 
-## 📬 **Contacto**
-📧 **Correo:** **thiegov43@gmail.com**  
-🔗 **GitHub:** https://github.com/Undertaker-GT  
-📍 **Guatemala**
-
----
-
-### ✨ “La tecnología no solo resuelve problemas; crea nuevas posibilidades.”
 
 </div>
-
 
