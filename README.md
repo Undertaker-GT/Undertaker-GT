@@ -1,6 +1,5 @@
 <div align="center">
 
-# **Thiego Véliz**
 ### Apasionado por la tecnología, especializado en ciberseguridad, infraestructura de red, inteligencia artificial y desarrollo web.  
 
 ---
